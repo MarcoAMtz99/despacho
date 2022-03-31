@@ -2,7 +2,7 @@
    
     <div class="nav-wrapper container">
       <!-- <a id="logo-container" href="" ><img src="../img/logos/logoG.png" alt="" class="brand-logo"> </a> -->
-      <a href="#!" class="brand-logo"><img src="./img/logos/logo_header.png" alt="" id="logo-container" alt=""  >
+      <a href="../index.php" class="brand-logo"><img src="./img/logos/logo_header.png" alt="" id="logo-container" alt=""  >
       <!-- <a href="#" class="brand-logo">COOPERTURA</a> -->
       <ul class="right hide-on-med-and-down">
          <li><a href="./somos.php">¿Quienes somos?</a></li>
