@@ -29,7 +29,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="orange-text text-lighten-3" href="http://materializecss.com">Marco A Mtz Mtz</a>
+      Made by <a class="orange-text text-lighten-3" href="https://github.com/MarcoAMtz99">Marco A Mtz Mtz</a>
       </div>
     </div>
   </footer>
