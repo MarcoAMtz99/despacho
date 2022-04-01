@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">Coopertura</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+          <p class="grey-text text-lighten-4">Somos un agregado de valor en el  proceso de negociación y contratación, mantenimiento y terminación de cualquier tipo de Contrato de Seguros o Contrato de Fianzas bajo nuestro destacado servicio al cliente y aportando a la promoción de la Cultura de la Prevención.</p>
 
 
         </div>
