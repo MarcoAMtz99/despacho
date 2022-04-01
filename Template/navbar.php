@@ -13,6 +13,9 @@
       </ul>
 
       <ul id="nav-mobile" class="sidenav" style="background: linear-gradient(to bottom, #262262, white);">
+        <div class="background">
+        <img src="./img/logos/logo_header.png">
+      </div>
       <li ><a href="./somos.php">¿Quienes somos?</a></li>
       <li><a href="./contacto.php">Contacto</a></li>
       <li><a href="./empresarial.php">Empresarial</a></li>
