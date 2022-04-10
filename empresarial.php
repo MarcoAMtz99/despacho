@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col s12 m4" style="text-align:justify;">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
+            <h2 class="center light-blue-text pulse"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Riesgos empresariales</h5>
 
             <p class="light">

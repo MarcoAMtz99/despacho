@@ -3,8 +3,18 @@
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
  *
+ * boton 184 width x 
+ * 171
  * Made By MaterializeCSS.com
  */
+
+
+.btn-floating.btn-large {
+  width: 184px;
+  height: 171px;
+  padding: 0;
+}
+
 .justify {
   text-align: justify;
 }

@@ -32,7 +32,7 @@
         <br></h3>
 
     <div class="center">
-           <a  href="https://autosegurodirecto.com.mx/" class="waves-effect waves-purple btn-large red lighten-5 white black-text pulse"><i class="material-icons left">send</i>Cotiza ahora</a>
+           <a  href="https://autosegurodirecto.com.mx/" class="waves-effect waves-purple btn-floating btn-large red lighten-5 white black-text pulse "><i class="material-icons "></i>Seguro de auto Cotizar ahora</a>
     </div>
 
      <div class="wave wave1"></div>

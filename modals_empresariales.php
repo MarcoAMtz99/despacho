@@ -17,13 +17,13 @@
   </div>
   <!-- PYME EMPRESARIAL -->
   <div id="Cobertura Básica PyMe" class="modal">
-    <div class="modal-content">
+    <div class="modal-content custom-delay-blue white-text">
       <h4>Pyme y Empresarial</h4>
       <p>Es el producto de seguros que está diseñado para pequeñas y medianas empresas, que se dedican a la comercialización de productos terminados  y/o servicios tanto para Edificio y/o sus Contenidos. Está diseñado especialmente para aquellos establecimientos que no conlleven algún tipo de proceso de transformación.
       Los riesgos cubiertos son:
       <ul class="collapsible">
     <li>
-      <div class="collapsible-header"><i class="material-icons">filter_drama</i> Incendio y/o rayo</div>
+      <div class="collapsible-header custom-delay-green"><i class="material-icons">filter_drama</i> Incendio y/o rayo</div>
       <div class="collapsible-body"><span>Es la cobertura de la póliza empresarial que protege al Edificio y a sus contenidos, es decir, indemniza los daños o pérdidas económicas causados por 
 Incendio y/o rayo
 Explosión, fulminación 
