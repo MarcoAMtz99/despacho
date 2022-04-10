@@ -7,7 +7,19 @@
  * 171
  * Made By MaterializeCSS.com
  */
+.custom-blue {
+  background-color: #262262 !important;
+}
+.custom-green {
+  background-color: #129748 !important;
+}
+.custom-green-5 {
+  background-color: #129748 !important;
+  /*background-color : transparent;*/
+  border-radius: 50px 50px 50px 50px ;
 
+  opacity: 0.9;
+}
 
 .btn-floating.btn-large {
   width: 184px;

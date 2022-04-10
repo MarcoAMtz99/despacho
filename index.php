@@ -54,29 +54,29 @@
 
 
  <div class="divider"></div>
-  <div class="container">
+  <div class="container z-depth-5">
 
    <div class="section">
   
-    <div class="carousel carousel-slider">
+    <div class="carousel carousel-slider custom-delay-green">
     <a class="carousel-item" href="#one!"><img src="img/01/logo-GNP-1536x783.jpeg"></a>
     <a class="carousel-item" href="#two!"><img src="img/01/LOGO-ANA-SEGUROS-2048x2048.jpg"></a>
     <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a>
+    <a class="carousel-item" href="#four!"><img src="img/01/IogotipoQualitas-1536x469.png"></a>
   </div>
   </div>
-  <div class="section">
+  <!-- <div class="section">
   
     <div class="carousel carousel-slider">
     <a class="carousel-item" href="#one!"><img src="img/01/nissan-885309-1-1024x683.jpg"></a>
     <a class="carousel-item" href="#two!"><img src="img/01/protective-suit-5716753_1920-1024x682.jpg"></a>
     <a class="carousel-item" href="#three!"><img src="img/01/people-1979261_1920-1024x683.jpg"></a>
-    <!-- <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a> -->
+   
   </div>
-  </div>
+  </div> -->
     <div class="row">
     <div class="col s12 m4 justify">
-      <div class="card custom-green darken-1">
+      <div class="card custom-green darken-1 z-depth-5">
         <div class="card-content white-text">
           <span class="card-title">Seguros de Autos</span>
           <p>Ofrecemos las mejores soluciones con las aseguradoras mas competitivas  del mercado con el fin de proporcionar Tranquilidad y Seguridad al  conducir. Tenemos coberturas Amplia, Limitada y Responsabilidad civil
@@ -91,7 +91,7 @@
     </div>
 
     <div class="col s12 m4 justify" >
-      <div class="card custom-green darken-1">
+      <div class="card custom-green darken-1 z-depth-5">
         <div class="card-content white-text">
           <span class="card-title">Seguros empresariales</span>
           <p>Los negocios, sin importar su tamaño, se encuentran expuestos día a día a múltiples riesgos que podrían llegar a afectar a sus bienes muebles o inmuebles, tangibles o intangibles,  o de cualquier otra índole afectando su seguridad, tanto física como financiera; Es por eso que en COOPERTURA contamos con los especialistas dedicados a los RIESGOS EMPRESARIALES.</p>
@@ -104,7 +104,7 @@
     </div>
 
     <div class="col s12 m4 justify">
-      <div class="card custom-green darken-1">
+      <div class="card custom-green darken-1 z-depth-5">
         <div class="card-content white-text">
           <span class="card-title">Seguros personales</span>
           <p>Contamos con los Productos ideales para todas aquellas necesidades de Coberturas por cuenta propia o unitariamente, sean de </p>
@@ -130,8 +130,8 @@
   <!-- FINAL DE LA SECCION DE LOS CARDS -->
   <div class="row">
     <div class="col s12 m6 justify">
-      <div class="card  darken-1">
-        <div class="card-content dark-text">
+      <div class="card  custom-delay-blue darken-1 z-depth-5">
+        <div class="card-content white-text">
           <span class="card-title">Siempre a tu lado</span>
           <p>Vive una experiencia personalizada y disfruta la tranquilidad de sentirte protegido, escuchado y respaldado de principio a fin.</p>
        
@@ -141,8 +141,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card custom-delay-blue darken-1 z-depth-3">
-        <div class="card-content dark-text">
+      <div class="card custom-delay-blue  darken-1 z-depth-5">
+        <div class="card-content white-text">
           <span class="card-title">Encuentra el mejor seguro</span>
           <p>Cotiza con las aseguradoras líderes y obtén la mejor cobertura, al mejor precio, de forma fácil, rápida y segura.</p>
         
@@ -153,8 +153,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card  darken-1">
-        <div class="card-content dark-text">
+      <div class="card  custom-delay-blue darken-1 z-depth-5">
+        <div class="card-content white-text">
           <span class="card-title">Personaliza tu seguro</span>
           <p>Elige la mejor cobertura para ti y la forma de pago que más se ajuste a tus necesidades.</p>
           
@@ -165,8 +165,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card  darken-1">
-        <div class="card-content dark-text">
+      <div class="card custom-delay-blue  darken-1 z-depth-5">
+        <div class="card-content white-text">
           <span class="card-title">Tus seguros en un sólo lugar</span>
           <p>Contrata en línea tu seguro y obtén tu póliza en minutos llevándolas siempre contigo en nuestra app</p>
          
@@ -182,8 +182,8 @@
   </div>
   <div class="row">
      <div class="col s12 m12 justify">
-      <div class="card  darken-1 dark-text" >
-        <div class="card-content dark-text">
+      <div class="card custom-delay-blue  darken-1 z-depth-5" >
+        <div class="card-content white-text">
           <span class="card-title">¿Que hago en caso de siniestro?</span>
           <p>Esperamos que nunca nos necesites, pero en caso que sí, estamos a un click, llamada o chat de distancia.</p>
           <a href="https://api.whatsapp.com/send?phone=+5562758686&text=Necesito%20ayuda" class="waves-effect waves-light btn"><i class="material-icons left">whatsapp</i>(55) 6275-8686</a>
