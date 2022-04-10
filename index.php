@@ -141,7 +141,7 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card c darken-1">
+      <div class="card custom-delay-blue darken-1">
         <div class="card-content dark-text">
           <span class="card-title">Encuentra el mejor seguro</span>
           <p>Cotiza con las aseguradoras líderes y obtén la mejor cobertura, al mejor precio, de forma fácil, rápida y segura.</p>
