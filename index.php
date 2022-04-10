@@ -54,7 +54,7 @@
 
 
  <div class="divider"></div>
-  <div class="container z-depth-5">
+  <div class="container ">
 
    <div class="section">
   
