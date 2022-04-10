@@ -15,7 +15,7 @@
 	font-size: inherit;
 }
 .custom-delay-blue{
-	background: linear-gradient(to right, #262262, #129748);
+	background: linear-gradient(to bottom, #262262, #129748);
 }
 .custom-delay-green{
 	background: linear-gradient(to bottom, #129748, #262262);

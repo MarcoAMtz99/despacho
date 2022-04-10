@@ -61,7 +61,7 @@
           <span class="card-title"><strong>Ubicacion</strong></span>
           <br>
           <div class="map-responsive">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.6757404980162!2d-99.1724859850934!3d19.426411386887796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4a3276d717%3A0x121fbf0ac65cc05!2sAv.%20Paseo%20de%20la%20Reforma%20389-Piso%2010%2C%20Cuauht%C3%A9moc%2C%2006500%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1648850041409!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.533785621697!2d-99.18582873520045!3d19.43253964571834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f8ac886eaaab%3A0x96e60ae5e3a9db70!2sMEXCEL!5e0!3m2!1ses-419!2smx!4v1649560764130!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         
         </div>
