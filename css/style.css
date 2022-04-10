@@ -24,6 +24,13 @@
 .btn-floating.btn-large {
   width: 184px;
   height: 171px;
+  line-height: 45px;
+  font-size: 18px;
+ 	background: linear-gradient(to right, #262262, #262262);
+ 	opacity: 0.8; 
+ 	
+  font-family: sans-serif;
+  letter-spacing: normal;
   padding: 0;
 }
 
