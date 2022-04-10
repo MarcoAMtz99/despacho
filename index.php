@@ -58,7 +58,7 @@
 
    <div class="section">
   
-    <div class="carousel carousel-slider custom-delay-green">
+    <div class="carousel carousel-slider custom-delay-blue">
     <a class="carousel-item" href="#one!"><img src="img/01/logo-GNP-1536x783.jpeg"></a>
     <a class="carousel-item" href="#two!"><img src="img/01/LOGO-ANA-SEGUROS-2048x2048.jpg"></a>
     <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
