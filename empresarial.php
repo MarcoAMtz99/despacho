@@ -78,7 +78,7 @@
   <script src="js/init.js"></script>
 <script type="text/javascript">
   $('.dropdown-trigger').dropdown();
-   $('.modal').modal();
+   $('.modal').modal({opacity:0.7});
   $('.tap-target').tapTarget();
   $('.collapsible').collapsible();
   $('.parallax').parallax();

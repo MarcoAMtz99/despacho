@@ -2,7 +2,7 @@
    
     <div class="nav-wrapper container">
       <!-- <a id="logo-container" href="" ><img src="../img/logos/logoG.png" alt="" class="brand-logo"> </a> -->
-      <a href="./index.php" class="brand-logo"><img src="./img/logos/logo_header.png" alt="" id="logo-container" alt=""  >
+      <a href="./index.php" class="brand-logo"><img src="./img/logos/logo_header.png" alt="" id="logo-container" alt=""  >  </a>
       <!-- <a href="#" class="brand-logo">COOPERTURA</a> -->
       <ul class="right hide-on-med-and-down">
       <li><a href="./somos.php">¿Quienes somos?</a></li>
@@ -14,7 +14,10 @@
 
       <ul id="nav-mobile" class="sidenav" style="background: linear-gradient(to bottom, #262262, white);">
         <div class="background">
-        <img src="./img/logos/logo_header.png">
+          <a href="./index.php" >
+            <img  src="./img/logos/logo_header.png">
+           </a>
+        
       </div>
       <li ><a href="./somos.php">¿Quienes somos?</a></li>
       <li><a href="./contacto.php">Contacto</a></li>
@@ -22,7 +25,7 @@
       <li><a href="./personal.php">Personal</a></li>
       <li><a href="./finanzas.php">Finanzas</a></li>
       </ul>
-      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <a href="./index.php" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
   </nav>
 <!-- <img src="../img/logos/logoO.png" alt="" class="brand-logo"> -->

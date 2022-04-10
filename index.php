@@ -129,8 +129,8 @@
   <!-- FINAL DE LA SECCION DE LOS CARDS -->
   <div class="row">
     <div class="col s12 m6 justify">
-      <div class="card custom-delay-blue darken-1">
-        <div class="card-content white-text">
+      <div class="card  darken-1">
+        <div class="card-content dark-text">
           <span class="card-title">Siempre a tu lado</span>
           <p>Vive una experiencia personalizada y disfruta la tranquilidad de sentirte protegido, escuchado y respaldado de principio a fin.</p>
        
@@ -140,8 +140,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card custom-delay-blue darken-1">
-        <div class="card-content white-text">
+      <div class="card c darken-1">
+        <div class="card-content dark-text">
           <span class="card-title">Encuentra el mejor seguro</span>
           <p>Cotiza con las aseguradoras líderes y obtén la mejor cobertura, al mejor precio, de forma fácil, rápida y segura.</p>
         
@@ -152,8 +152,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card custom-delay-green darken-1">
-        <div class="card-content white-text">
+      <div class="card  darken-1">
+        <div class="card-content dark-text">
           <span class="card-title">Personaliza tu seguro</span>
           <p>Elige la mejor cobertura para ti y la forma de pago que más se ajuste a tus necesidades.</p>
           
@@ -164,8 +164,8 @@
       </div>
     </div>
     <div class="col s12 m6 justify">
-      <div class="card custom-delay-green darken-1">
-        <div class="card-content white-text">
+      <div class="card  darken-1">
+        <div class="card-content dark-text">
           <span class="card-title">Tus seguros en un sólo lugar</span>
           <p>Contrata en línea tu seguro y obtén tu póliza en minutos llevándolas siempre contigo en nuestra app</p>
          
@@ -181,12 +181,12 @@
   </div>
   <div class="row">
      <div class="col s12 m12 justify">
-      <div class="card  darken-1 custom-delay-blue" >
-        <div class="card-content white-text">
+      <div class="card  darken-1 dark-text" >
+        <div class="card-content dark-text">
           <span class="card-title">¿Que hago en caso de siniestro?</span>
           <p>Esperamos que nunca nos necesites, pero en caso que sí, estamos a un click, llamada o chat de distancia.</p>
-          <a class="waves-effect waves-light btn"><i class="material-icons left">whatsapp</i>Envianos un mensaje</a>
-          <a class="waves-effect waves-light btn"><i class="material-icons left">facebook</i>(55) 6275-8686</a>
+          <a href="https://api.whatsapp.com/send?phone=+5562758686&text=Necesito%20ayuda" class="waves-effect waves-light btn"><i class="material-icons left">whatsapp</i>(55) 6275-8686</a>
+          <a class="waves-effect waves-light btn"><i class="material-icons left">facebook</i>Envianos un mensaje</a>
           <a class="waves-effect waves-light btn"><i class="material-icons left">email</i>info@coopertura.com</a>
         </div>
         <div class="card-action">
