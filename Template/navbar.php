@@ -19,11 +19,11 @@
            </a>
         
       </div>
-      <li ><a href="./somos.php">¿Quienes somos?</a></li>
-      <li><a href="./contacto.php">Contacto</a></li>
-      <li><a href="./empresarial.php">Empresarial</a></li>
-      <li><a href="./personal.php">Personal</a></li>
-      <li><a href="./finanzas.php">Finanzas</a></li>
+      <li ><a class="white-text" href="./somos.php">¿Quienes somos?</a></li>
+      <li><a class="white-text" href="./contacto.php">Contacto</a></li>
+      <li><a class="white-text" href="./empresarial.php">Empresarial</a></li>
+      <li><a class="white-text" href="./personal.php">Personal</a></li>
+      <li><a class="white-text" href="./finanzas.php">Finanzas</a></li>
       </ul>
       <a href="./index.php" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>

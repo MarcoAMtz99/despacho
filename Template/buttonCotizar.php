@@ -1,0 +1,1 @@
+<a  href="https://autosegurodirecto.com.mx/" class="waves-effect waves-purple btn red lighten-5 white black-text pulse"><i class="material-icons left">send</i>Cotiza ahora</a>

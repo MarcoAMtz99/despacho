@@ -26,9 +26,10 @@
  
   <section>
     <br>
-    <h2 class="header center z-depth-3 white-text">Igualamos cualquier oferta publicada en la web 
+    <h2 class="header center z-depth-3 white-text">Agente de Seguros y de Fianzas <br></h2>
+    <h3 class="header center z-depth-3 white-text">Igualamos cualquier oferta publicada en la web 
        <br>
-        <br></h2>
+        <br></h3>
 
     <div class="center">
            <a  href="https://autosegurodirecto.com.mx/" class="waves-effect waves-purple btn-large red lighten-5 white black-text pulse"><i class="material-icons left">send</i>Cotiza ahora</a>

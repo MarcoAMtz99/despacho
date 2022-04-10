@@ -21,7 +21,28 @@
       <h4>Pyme y Empresarial</h4>
       <p>Es el producto de seguros que está diseñado para pequeñas y medianas empresas, que se dedican a la comercialización de productos terminados  y/o servicios tanto para Edificio y/o sus Contenidos. Está diseñado especialmente para aquellos establecimientos que no conlleven algún tipo de proceso de transformación.
       Los riesgos cubiertos son:
-         <blockquote>• Incendio y/o rayo </blockquote>
+      <ul class="collapsible">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">filter_drama</i> Incendio y/o rayo</div>
+      <div class="collapsible-body"><span>Es la cobertura de la póliza empresarial que protege al Edificio y a sus contenidos, es decir, indemniza los daños o pérdidas económicas causados por 
+Incendio y/o rayo
+Explosión, fulminación 
+Rotura accidental de tuberías
+Descarga o derrame accidental de agua o de vapor de agua
+Obstrucción de los canales de desagüe pluvial de techos y cornisas a causa de acumulación de granizo o nieve
+Colisión de Naves Aéreas y objetos caídos de ellas
+Colisión de vehículos motorizados
+Humo o tizne
+Disturbios populares
+Vandalismo
+Caída de antenas y anuncios
+Caída de árboles o accidentes de la naturaleza semejantes así como 
+Maniobras de Salvamento si se llegasen a requerir  y las Maniobras de Extinción.
+</span></div>
+    </li>
+  
+  </ul>
+         <blockquote>• </blockquote>
          <blockquote>• Riesgos Hidrometeorológicos </blockquote>
          <blockquote>• Terremoto y Erupción volcánica </blockquote>
         <blockquote>• Remoción de Escombros  </blockquote>
