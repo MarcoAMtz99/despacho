@@ -54,7 +54,7 @@
 
 
  <div class="divider"></div>
-  <div class="container ">
+  <div class="container">
 
    <div class="section">
   
