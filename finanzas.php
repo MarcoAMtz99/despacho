@@ -11,7 +11,7 @@
 
       <!--   Icon Section   -->
       <div class="row">
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">face</i></h2>
             <h5 class="center">Fianzas de fidelidad</h5>
@@ -20,22 +20,22 @@
             Se pueden contratar como:
 
             </p>
-              <br><a href="#">•Fianza de Fidelidad Individuales</a>
-              <br><a href="#">•Fianzas de Fidelidad Colectivas</a>
+              <br><a href="#Fianza de Fidelidad Individuales" class="modal-trigger">•Fianza de Fidelidad Individuales</a>
+              <br><a href="#Fianzas de Fidelidad Colectivas"  class="modal-trigger">•Fianzas de Fidelidad Colectivas</a>
           </div>
         </div>
-          <div class="col s12 m6">
+          <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">folder_shared</i></h2>
             <h5 class="center">Fianzas Administrativas</h5>
 
             <p class="light">Garantía de las obligaciones contractuales como: </p>
-              <br><a href="#">•De obra</a>
-              <br><a href="#">•Otras fianzas administrativas</a>
-              <br><a href="#">•De Servicios</a>
-              <br><a href="#">•De proveeduría o Suministros</a>
-              <br><a href="#">•Fiscales</a>
-              <br><a href="#">•De Arrendamiento inmobiliario</a>
+              <br><a href="#De obra" class="modal-trigger">•De obra</a>
+              <br><a href="#Otras fianzas administrativas" class="modal-trigger">•Otras fianzas administrativas</a>
+              <br><a href="#" class="modal-trigger">•De Servicios</a>
+              <br><a href="#De obra" class="modal-trigger">•De proveeduría o Suministros</a>
+              <br><a href="#Fiscales" class="modal-trigger">•Fiscales</a>
+              <br><a href="#De Arrendamiento inmobiliario" class="modal-trigger">•De Arrendamiento inmobiliario</a>
 
            
           </div>
@@ -45,7 +45,7 @@
 
       </div>
       <div class="row">
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">credit_card</i></h2>
             <h5 class="center">Fianzas de Credito</h5>
@@ -56,7 +56,7 @@
         </div>
 
       <!-- AQUI VA -->
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">folder_open</i></h2>
             <h5 class="center">Fianzas Judiciales</h5>
@@ -77,8 +77,8 @@ Para mayores informes, por favor contacte a uno de nuestros asesores.
             <h5 class="center">Fianzas de Garantia</h5>
 
             <p class="light">Colocación en el mercado afianzador de servicios profesionales prestados como Institución Fiduciaria para la administración profesional de un fideicomiso. Se pueden encontrar de dos formas: </p>
-             <br><a href="#">•Relacionado con Pólizas de Fianzas</a>
-              <br><a href="#">•Sin Relación a pólizas de Fianzas</a>
+             <br>•  <strong>• Relacionado con Pólizas de Fianzas </strong>
+              <br>• <strong>•Sin Relación a pólizas de Fianzas</strong>
 
 
           </div>
@@ -92,6 +92,7 @@ Para mayores informes, por favor contacte a uno de nuestros asesores.
       </div>
     </div>
   </div>
+  <?php include('modals_fianzas.php');?>
   <!-- fin del div principal -->
       <!-- FOOTER SECTION -->
   <?php include('./Template/footer.php') ;?>

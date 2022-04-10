@@ -11,42 +11,42 @@
 
       <!--   Icon Section   -->
       <div class="row">
-        <div class="col s12 m4">
+        <div class="col s12 m4" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Riesgos empresariales</h5>
 
             <p class="light">
-              <br><a href="#">• GMM Planes Colectivos</a>
-              <br><a href="#">• Cobertura Básica PyMe y Empresarial</a>
-              <br><a href="#">• Servicio Público</a>
-              <br><a href="#">• Responsabilidad Civil Y Riesgos Profesionales</a>
-              <br><a href="#"> • Seguro Agrícola</a>
-              <br><a href="#"> • Seguro de Animales</a>
-              <br><a href="#">• Seguro de Crédito</a>
-              <br><a href="#">• Seguro de Automóviles (Flotillas).</a>
-              </p><a href="#"></a>
+              <br><a href="#GMM Planes Colectivos" class="modal-trigger">• GMM Planes Colectivos</a>
+              <br><a href="#Cobertura Básica PyMe" class="modal-trigger">•Cobertura Básica PyMe y Empresarial </a>
+              <br><a href="#Servicio Publico"  class="modal-trigger">• Servicio Público</a>
+              <br><a href="#Responsabilidad Civil Y Riesgos Profesionales"  class="modal-trigger">• Responsabilidad Civil Y Riesgos Profesionales</a>
+              <br><a href="#Seguro Agrícola"  class="modal-trigger"> • Seguro Agrícola</a>
+              <br><a href="#Seguro de animales"  class="modal-trigger"> • Seguro de Animales</a>
+              <br><a href="#Seguro de credito"  class="modal-trigger">• Seguro de Crédito</a>
+              <br><a href="#flotillas"  class="modal-trigger">• Seguro de Automóviles (Flotillas).</a>
+              </p>
           </div>
         </div>
 
-        <div class="col s12 m4">
+        <div class="col s12 m4" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
             <h5 class="center">Ramos tecnicos</h5>
 
             <p class="light">El objetivo de éste seguro es la protección de los activos de la empresa en maquinaria o equipo electrónico ante los siguientes riesgos:</p>
 
-                <a href="#">• Rotura de maquinaria</a> 
-                <br><a href="#">• Calderas y recipientes sujetos a presión</a> 
-                <br><a href="#">• Equipo electrónico</a> 
-                <br><a href="#">• Equipo de Contratista o Maquinaria Pesada</a> 
-                <br><a href="#">• Seguro de Montaje</a> 
-                <br><a href="#">• Seguro de Obra Civil</a> 
+                <a href="#Rotura de calderas" class="modal-trigger">• Rotura de maquinaria</a> 
+                <br><a href="#Seguro de Calderas" class="modal-trigger">• Calderas y recipientes sujetos a presión</a> 
+                <br><a href="#Equipo electrico" class="modal-trigger">• Equipo electrónico</a> 
+                <br><a href="#Equipo de contratista" class="modal-trigger">• Equipo de Contratista o Maquinaria Pesada</a> 
+                <br><a href="#Seguro de Montaje" class="modal-trigger">• Seguro de Montaje</a> 
+                <br><a href="#Seguro de Obra Civil" class="modal-trigger">• Seguro de Obra Civil</a> 
 
           </div>
         </div>
 
-        <div class="col s12 m4">
+        <div class="col s12 m4" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
             <h5 class="center">Vida empresarial</h5>
@@ -66,6 +66,7 @@
       </div>
     </div>
   </div>
+  <?php include('modals_empresariales.php');?>
   <!-- fin del div principal -->
       <!-- FOOTER SECTION -->
   <?php include('./Template/footer.php') ;?>

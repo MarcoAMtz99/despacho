@@ -17,19 +17,23 @@
           </ul>
         </div>
         <div class="col l3 s12">
-          <h5 class="white-text">Fianzas</h5>
+          <h5 class="white-text">Legales</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
+            <li><a class="white-text" href="./terminos.php">Terminos y condiciones</a></li>
+            <li><a class="white-text" href="./aviso.php">Aviso de privacidad</a></li>
+          
           </ul>
+        </div>
+        <div class="col 13 s12"> 
+          <h5>Redes sociales</h5>
+          <a class="white-text"><i class="material-icons left">whatsapp</i></a>
+          <a class="white-text"><i class="material-icons left">facebook</i></a>
         </div>
       </div>
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="orange-text text-lighten-3" href="https://github.com/MarcoAMtz99">Marco A Mtz Mtz</a>
+      <!-- Made by <a class="orange-text text-lighten-3" href="https://github.com/MarcoAMtz99">Marco A Mtz Mtz</a> -->
       </div>
     </div>
   </footer>

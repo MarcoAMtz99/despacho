@@ -11,7 +11,7 @@
 
       <!--   Icon Section   -->
       <div class="row">
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">directions_car</i></h2>
             <h5 class="center">Autos individual</h5>
@@ -19,33 +19,33 @@
             <p class="light">Ofrecemos las mejores soluciones con las aseguradoras mas competitivas  del mercado con el fin de proporcionar Tranquilidad y Seguridad al  conducir. Tenemos coberturas Amplia, Limitada y Responsabilidad civil
             Siempre tenemos una solución para:
             </p>
-              <br><a href="#">• Autos</a>
-              <br><a href="#">• Camiones</a>
-              <br><a href="#">• Taxis y Servicio Público</a>
-              <br><a href="#">• Motos</a>
-              <br><a href="#"> • Autos Legalizados</a>
-              <br><a href="#"> • Autos Fronterizos y Regularizados</a>
-              <br><a href="#">• Autos Turistas</a>
-              <br><a href="#">• Autos Antigüos Clásicos</a>
+              <br><a href="#Autos" class="modal-trigger">• Autos</a>
+              <br><a href="#Autos" class="modal-trigger">• Camiones</a>
+              <br><a href="#Autos" class="modal-trigger">• Taxis y Servicio Público</a>
+              <br><a href="#Autos" class="modal-trigger">• Motos</a>
+              <br><a href="#Autos" class="modal-trigger">• Autos Legalizados</a>
+              <br><a href="#Autos" class="modal-trigger">• Autos Fronterizos y Regularizados</a>
+              <br><a href="#Autos" class="modal-trigger">• Autos Turistas</a>
+              <br><a href="#Autos" class="modal-trigger">• Autos Antigüos Clásicos</a>
               <a href="#"></a>
           </div>
         </div>
-         <div class="col s12 m6">
+         <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">local_hospital</i></h2>
             <h5 class="center">GMM</h5>
 
             <p class="light">Gracias a nuestras Alianzas Estratégicas, contamos con las mejores coberturas del mercado a precios muy competitivos para esos casos de enfermedades o accidentes inesperados que eventualmente pueden llegar a representar una fuerte cantidad de dinero, por lo que ofrecemos flexibilidad de acuerdo cada caso.
               Siempre encontramos una solución a sus necesidades.</p>
-              <br><a href="#">• GMM Planes Individuales</a>
-              <br><a href="#">• GMM Planes Colectivos</a>
+              <br><a href="#GMM Planes Individuales" class="modal-trigger">• GMM Planes Individuales</a>
+              <br><a href="#GMM PLANES COLECTIVOS" class="modal-trigger">• GMM Planes Colectivos</a>
               
           </div>
         </div>
 
       </div>
       <div class="row">
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
             <h5 class="center">Accidentes personales</h5>
@@ -55,7 +55,7 @@
           </div>
         </div>
 
-        <div class="col s12 m6">
+        <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
             <h2 class="center light-blue-text"><i class="material-icons">accessibility</i></h2>
             <h5 class="center">Vida</h5>
@@ -75,6 +75,7 @@
       </div>
     </div>
   </div>
+    <?php include('modals_personal.php');?>
   <!-- fin del div principal -->
       <!-- FOOTER SECTION -->
   <?php include('./Template/footer.php') ;?>

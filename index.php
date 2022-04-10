@@ -1,73 +1,202 @@
 <?php include('./Template/header.php');?>
 <?php include('./Template/navbar.php');?>
+
 <body style="background: linear-gradient(to bottom, #262262, white);">
+
 <div>
-  <div class="parallax-container">
+ 
+  <!-- <div class="parallax-container">
       <div class="parallax"><img src="img/autos/audi1.jpg"></div>
     </div>
     <div class="section white">
         
       <div class="row container">
-        <!-- <video src="img/video/demo.mp4" width="1280" height="720"  class="col s12 m12" autoplay muted loop></video> -->
+        
         <div class="center">
           <a href="https://autosegurodirecto.com.mx/" class="btn-large waves-effect waves-green center">Cotiza</a>
         </div>
         
-        <h2 class="header">Mejoramos cualquier oferta publicada en la web </h2>
+       
         <p class="grey-text text-darken-3 lighten-3"> </p>
       </div>
     </div>
     <div class="parallax-container">
       <div class="parallax"><img src="img/autos/AUDI2.jfif"></div>
+    </div> -->
+ 
+  <section>
+    <br>
+    <h2 class="header center z-depth-3 white-text">Igualamos cualquier oferta publicada en la web 
+       <br>
+        <br></h2>
+
+    <div class="center">
+           <a  href="https://autosegurodirecto.com.mx/" class="waves-effect waves-purple btn-large red lighten-5 white black-text pulse"><i class="material-icons left">send</i>Cotiza ahora</a>
     </div>
 
-
+     <div class="wave wave1"></div>
+     <div class="wave wave2"></div>
+     <div class="wave wave3"></div>
+     <div class="wave wave4"></div>
+   </section>
 </div>
 
+
+  
+
+
+
+
+
+
+
+
+
+ <div class="divider"></div>
   <div class="container">
-       <div class="row">
-    <div class="col s12 m4">
+
+   <div class="section">
+  
+    <div class="carousel carousel-slider">
+    <a class="carousel-item" href="#one!"><img src="img/01/logo-GNP-1536x783.jpeg"></a>
+    <a class="carousel-item" href="#two!"><img src="img/01/LOGO-ANA-SEGUROS-2048x2048.jpg"></a>
+    <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a>
+  </div>
+  </div>
+  <div class="section">
+  
+    <div class="carousel carousel-slider">
+    <a class="carousel-item" href="#one!"><img src="img/01/nissan-885309-1-1024x683.jpg"></a>
+    <a class="carousel-item" href="#two!"><img src="img/01/protective-suit-5716753_1920-1024x682.jpg"></a>
+    <a class="carousel-item" href="#three!"><img src="img/01/people-1979261_1920-1024x683.jpg"></a>
+    <!-- <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a> -->
+  </div>
+  </div>
+    <div class="row">
+    <div class="col s12 m4 justify">
       <div class="card custom-green darken-1">
         <div class="card-content white-text">
-          <span class="card-title">TEXTO DE EJEMPLO</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">Seguros de Autos</span>
+          <p>Ofrecemos las mejores soluciones con las aseguradoras mas competitivas  del mercado con el fin de proporcionar Tranquilidad y Seguridad al  conducir. Tenemos coberturas Amplia, Limitada y Responsabilidad civil
+          Siempre tenemos una solución para:
+          </p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
-          <a href="#">This is a link</a>
+          <a href="#">Contactanos</a>
+          
         </div>
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="col s12 m4 justify" >
       <div class="card custom-green darken-1">
         <div class="card-content white-text">
-          <span class="card-title">TEXTO DE EJEMPLO</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">Seguros empresariales</span>
+          <p>Los negocios, sin importar su tamaño, se encuentran expuestos día a día a múltiples riesgos que podrían llegar a afectar a sus bienes muebles o inmuebles, tangibles o intangibles,  o de cualquier otra índole afectando su seguridad, tanto física como financiera; Es por eso que en COOPERTURA contamos con los especialistas dedicados a los RIESGOS EMPRESARIALES.</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
-          <a href="#">This is a link</a>
+         <a href="#">Contactanos</a>
+          
         </div>
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="col s12 m4 justify">
       <div class="card custom-green darken-1">
         <div class="card-content white-text">
-          <span class="card-title">TEXTO DE EJEMPLO</span>
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title">Seguros personales</span>
+          <p>Contamos con los Productos ideales para todas aquellas necesidades de Coberturas por cuenta propia o unitariamente, sean de </p>
+          <ul>
+                <li>Salud</li> 
+               <li>Gastos Médico Mayores</li> 
+               <li>Autos</li> 
+               <li>Seguros con de vida Ahorro automático</li>  
+          </ul>
+       
+
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
-          <a href="#">This is a link</a>
+          <a href="#">Contactanos</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+  </div> 
+   <div class="divider"></div>
+  <!-- FINAL DE LA SECCION DE LOS CARDS -->
+  <div class="row">
+    <div class="col s12 m6 justify">
+      <div class="card custom-delay-blue darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Siempre a tu lado</span>
+          <p>Vive una experiencia personalizada y disfruta la tranquilidad de sentirte protegido, escuchado y respaldado de principio a fin.</p>
+       
+
+        </div>
+       
+      </div>
+    </div>
+    <div class="col s12 m6 justify">
+      <div class="card custom-delay-blue darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Encuentra el mejor seguro</span>
+          <p>Cotiza con las aseguradoras líderes y obtén la mejor cobertura, al mejor precio, de forma fácil, rápida y segura.</p>
+        
+       
+
+        </div>
+       
+      </div>
+    </div>
+    <div class="col s12 m6 justify">
+      <div class="card custom-delay-green darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Personaliza tu seguro</span>
+          <p>Elige la mejor cobertura para ti y la forma de pago que más se ajuste a tus necesidades.</p>
+          
+       
+
+        </div>
+        
+      </div>
+    </div>
+    <div class="col s12 m6 justify">
+      <div class="card custom-delay-green darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Tus seguros en un sólo lugar</span>
+          <p>Contrata en línea tu seguro y obtén tu póliza en minutos llevándolas siempre contigo en nuestra app</p>
+         
+        </div>
+        <div class="card-action">
+          <a href="#">Contactanos</a>
+          
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+  <div class="row">
+     <div class="col s12 m12 justify">
+      <div class="card  darken-1 custom-delay-blue" >
+        <div class="card-content white-text">
+          <span class="card-title">¿Que hago en caso de siniestro?</span>
+          <p>Esperamos que nunca nos necesites, pero en caso que sí, estamos a un click, llamada o chat de distancia.</p>
+          <a class="waves-effect waves-light btn"><i class="material-icons left">whatsapp</i>Envianos un mensaje</a>
+          <a class="waves-effect waves-light btn"><i class="material-icons left">facebook</i>(55) 6275-8686</a>
+          <a class="waves-effect waves-light btn"><i class="material-icons left">email</i>info@coopertura.com</a>
+        </div>
+        <div class="card-action">
+          <a href="#">Contactanos</a>
+          
         </div>
       </div>
     </div>
   </div>
+  <!-- fin del row -->
       
     <br><br>
   </div>
@@ -80,6 +209,7 @@
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
+  
 <script type="text/javascript">
   $('.dropdown-trigger').dropdown();
    $('.modal').modal();
@@ -90,9 +220,9 @@
   $('.tooltipped').tooltip();
   $('.scrollspy').scrollSpy();
   $('.carousel.carousel-slider').carousel({
-    fullWidth: true
+    
   });
-
+ M.AutoInit();
 </script>
   </body>
 </html>

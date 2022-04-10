@@ -24,7 +24,7 @@
         <li  class="collection-item">Honestidad y Lealtad</li>
         <li  class="collection-item">Profesionalismo</li>
         <li  class="collection-item">Trabajo en Equipo Multidisciplinario</li>
-        <li  class="collection-item">Calidad y Efectividad en el Servicio</li>
+        <li  class="collection-item">Calidad y eficiencia en el Servicio</li>
     </ol>
   </div>
   <div class="divider"></div>
@@ -39,10 +39,10 @@
   <div class="section">
     <h4>Alizas estrategicas</h4>
        <div class="carousel carousel-slider">
-    <a class="carousel-item" href="#one!"><img src="https://www.elcarrocolombiano.com/wp-content/uploads/2021/01/20210124-LOS-10-CARROS-MAS-VENDIDOS-DEL-MUNDO-EN-2020-01.jpg"></a>
-    <a class="carousel-item" href="#two!"><img src="https://www.elcarrocolombiano.com/wp-content/uploads/2019/01/20190103-CARROS-NUEVOS-QUE-LLEGARAN-A-COLOMBIA-EN-2019-03.jpg"></a>
-    <a class="carousel-item" href="#three!"><img src="https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="https://www.elcarrocolombiano.com/wp-content/uploads/2021/01/20210124-LOS-10-CARROS-MAS-VENDIDOS-DEL-MUNDO-EN-2020-01.jpg"></a>
+    <a class="carousel-item" href="#one!"><img src="img/01/logo-GNP-1536x783.jpeg"></a>
+    <a class="carousel-item" href="#two!"><img src="img/01/LOGO-ANA-SEGUROS-2048x2048.jpg"></a>
+    <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
+    <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a>
   </div>
   </div>
 
@@ -66,6 +66,8 @@
   <script src="js/init.js"></script>
 <script type="text/javascript">
   $('.dropdown-trigger').dropdown();
+
+
    $('.modal').modal();
   $('.tap-target').tapTarget();
   $('.collapsible').collapsible();
@@ -74,7 +76,11 @@
   $('.tooltipped').tooltip();
   $('.scrollspy').scrollSpy();
   $('.carousel.carousel-slider').carousel({
-    fullWidth: true
+    fullWidth: false,
+    indicators:true,
+    duration:500,
+    shift:1,
+    padding:2
   });
 
 </script>
