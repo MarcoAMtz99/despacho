@@ -2,7 +2,7 @@
 
   <!-- GMM Planes Colectivos  -->
   <div id="GMM Planes Colectivos" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>GMM Planes Colectivos</h4>
       <p>Consultores especializados en Capital Humano y beneficios a empleados, así como en la prevención de riesgos en que incurra la empresa por conceptos como:
         <blockquote>• Hospitalización y Medicamentos</blockquote>   
@@ -182,7 +182,7 @@
   </div>
    <!-- Servicio Publico -->
   <div id="Servicio Publico" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Servicio Publico</h4>
       <p>Contamos con las coberturas necesarias para la protección de tu fuente de trabajo con las tarifas más competitivas. </p>
     </div>
@@ -330,7 +330,7 @@
   </div>
    <!-- Seguro Agrícola -->
   <div id="Seguro Agrícola" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro Agrícola</h4>
       <p>Contrato en virtud del cual se amparan los daños o perjuicios que sufran los cultivos por </p>
        <blockquote>·granizo</blockquote>
@@ -346,7 +346,7 @@
   </div>
    <!-- SEGURO DE ANIMALES: -->
   <div id="Seguro de animales" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de animales</h4>
       <p>Contrato en virtud del cual que ofrece cobertura como:</p>
        <blockquote>·muerte accidental, </blockquote>
@@ -363,7 +363,7 @@
   </div>
    <!-- Seguro de Crédito -->
   <div id="Seguro de credito" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de credito</h4>
       <p>Contrato en virtud del cual se cubre al asegurado ante la falta de pago de las ventas a crédito por insolvencia jurídica o mora prolongada, entre otros beneficios, ya sean clientes nacionales o internacionales. </p>
     </div>
@@ -373,7 +373,7 @@
   </div>
    <!-- flotillas -->
   <div id="flotillas" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de Automóviles (Flotillas)</h4>
       <p>Cobertura que ampara los daños o perjuicios que le causen o que causen los vehículos de una persona moral por motivo del uso de un automóvil</p>
     </div>
@@ -386,7 +386,7 @@
 
    <!-- Modal Structure -->
   <div id="Rotura de calderas" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Rotura de calderas</h4>
       <p>Se cubre el valor de reposición o reparación de cualquier máquina útil y que se encuentre en funcionamiento. </p>
     </div>
@@ -396,7 +396,7 @@
   </div>
    <!-- Seguro de Calderas -->
   <div id="Seguro de Calderas" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de Calderas</h4>
       <p>Cobertura que garantiza los daños que se lleguen a causar tanto a las propias calderas o recipientes  sujetos a presión por calor por efecto de una explosión o avería como a cualquier otro bien de la persona asegurada que también se haya visto afectada, así como también se incluye la Responsabilidad Civil a Terceros que hayan sido alcanzado por el mismo siniestro. Por otro lado, esto incluye el servicio de inspecciones periódicas a las instalaciones de las calderas.</p>
     </div>
@@ -406,7 +406,7 @@
   </div>
    <!-- Equipo electrico -->
   <div id="Equipo electrico" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Equipo electrico</h4>
       <p>Cobertura por medio de la cual se tiene por objeto cubrir los equipos electrónicos que puedan ser utilizados en las </p>
        <blockquote>· Comunicaciones, </blockquote>
@@ -423,7 +423,7 @@
   </div>
    <!-- Equipo de contratista -->
   <div id="Equipo de contratista" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Equipo de contratista</h4>
       <p>Cobertura por medio de la cual se cubre al Equipo General como son las </p>
        <blockquote>· máquinas autopropulsadas o remolcadas, </blockquote>
@@ -444,7 +444,7 @@
   </div>
    <!-- Seguro de Montaje -->
   <div id="Seguro de Montaje" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de Montaje</h4>
       <p>Cobertura por medio de la cual se protege a la Maquinaria nueva, estructuras metálicas, o Plantas industriales completas ante riesgos como el sabotaje personal, el período de prueba, errores durante su montaje entre otros daños materiales.</p>
     </div>
@@ -454,7 +454,7 @@
   </div>
    <!-- Seguro de Obra Civil -->
   <div id="Seguro de Obra Civil" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Seguro de Obra Civil</h4>
       <p>Contrato de  seguro que se compone de tres secciones de acuerdo a sus coberturas:</p>
        <blockquote>· OBRA CIVIL </blockquote>

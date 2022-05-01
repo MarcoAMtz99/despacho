@@ -1,7 +1,7 @@
 
    <!-- Fianza de Fidelidad Individuales -->
   <div id="Fianza de Fidelidad Individuales" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
        <h4>Fianza de Fidelidad Individuales</h4>
        <p>Garantía por medio de la cual se cubre a una persona en particular. </p>
 
@@ -13,7 +13,7 @@
 
 <!-- Fianzas de Fidelidad Colectivas -->
   <div id="Fianzas de Fidelidad Colectivas" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Fianzas de Fidelidad Colectivas</h4>
       <p>Garantiza los manejos de todos los empleados de una empresa. Se pueden dividir en
         </p>
@@ -27,7 +27,7 @@
   </div>
    <!-- De obra -->
   <div id="De obra" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>De obra</h4>
       <p>Garantía en los </p>
        <blockquote>Concursos o licitación  </blockquote>
@@ -43,7 +43,7 @@
   </div>
  <!-- Otras fianzas administrativas -->
   <div id="Otras fianzas administrativas" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Otras fianzas administrativas</h4>
       <p>Son todas aquellas que por sus características propias, requieren de  un contrato especializado, como son: </p>
         <blockquote>Rifas y sorteos </blockquote>
@@ -73,7 +73,7 @@
 
   <!-- Fiscales -->
   <div id="Fiscales" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>Fiscales</h4>
       <p>Se garantizan las obligaciones fiscales de un particular frente al Estado en su carácter de fisco</p>
     </div>
@@ -84,7 +84,7 @@
 
   <!-- De Arrendamiento inmobiliario -->
   <div id="De Arrendamiento inmobiliario" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>De Arrendamiento inmobiliario</h4>
       <p>Se garantiza el pago de las rentas contempladas en el correspondiente contrato de arrendamiento, ya sea de bienes muebles o inmuebles. </p>
     </div>

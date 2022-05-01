@@ -1,7 +1,7 @@
 
    <!-- Autos -->
   <div id="Autos" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
        <h4>Coberturas</h4>
        <blockquote>Daños materiales Autos </blockquote>
          <blockquote>Robo total </blockquote>
@@ -19,7 +19,7 @@
 
 <!-- GMM Planes Individuales -->
   <div id="GMM Planes Individuales" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>GMM Planes Individuales</h4>
       <p>Porque sabemos lo mucho que representa un imprevisto de salud.
         Tenemos las mejores coberturas y a los mejores precios. 
@@ -32,7 +32,7 @@
   </div>
    <!-- GMM PLANES COLECTIVOS -->
   <div id="GMM PLANES COLECTIVOS" class="modal">
-    <div class="modal-content">
+    <div class="modal-content  custom-delay-blue white-text">
       <h4>GMM PLANES COLECTIVOS</h4>
       <p>Consultores especializados en Capital Humano y beneficios a empleados, así como en la prevención de riesgos en que incurra la empresa por conceptos como:</p>
        <blockquote>Hospitalización y Medicamentos </blockquote>
