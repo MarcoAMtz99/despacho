@@ -36,15 +36,22 @@
     
   </div>
   <div class="divider"></div>
-  <div class="section">
+ <!--  <div class="section">
     <h4>Alizas estrategicas</h4>
        <div class="carousel carousel-slider">
     <a class="carousel-item" href="#one!"><img src="img/01/logo-GNP-1536x783.jpeg"></a>
     <a class="carousel-item" href="#two!"><img src="img/01/LOGO-ANA-SEGUROS-2048x2048.jpg"></a>
     <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
     <a class="carousel-item" href="#four!"><img src="IMG/01/IogotipoQualitas-1536x469.png"></a>
+    a>
+    <a class="carousel-item" href="#four!"><img src="IMG/logos/AZ.png"></a>
+    a>
+    <a class="carousel-item" href="#four!"><img src="IMG/logos/HDI.png"></a>
+    a>
+    <a class="carousel-item" href="#four!"><img src="IMG/logos/Zurich.png"></a>
   </div>
-  </div>
+  </div> -->
+  <?php include('./Template/carrusel.php');?>
 
 
 

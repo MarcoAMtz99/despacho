@@ -54,8 +54,12 @@
 
 
  <div class="divider"></div>
+   <?php include('./Template/carrusel.php');?>
+  <?php include('./Template/banner.php');?>
+   <?php include('./Template/buutonContacto.php');?>
   <div class="container">
-
+  
+<!-- 
    <div class="section">
   
     <div class="carousel carousel-slider custom-delay-blue">
@@ -64,7 +68,8 @@
     <a class="carousel-item" href="#three!"><img src="img/01/Logo-General-de-Seguros.jpg"></a>
     <a class="carousel-item" href="#four!"><img src="img/01/IogotipoQualitas-1536x469.png"></a>
   </div>
-  </div>
+  </div> -->
+
   <!-- <div class="section">
   
     <div class="carousel carousel-slider">

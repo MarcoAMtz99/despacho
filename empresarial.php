@@ -26,6 +26,7 @@
               <br><a href="#Seguro de credito"  class="modal-trigger">• Seguro de Crédito</a>
               <br><a href="#flotillas"  class="modal-trigger">• Seguro de Automóviles (Flotillas).</a>
               </p>
+              <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
 
@@ -42,7 +43,7 @@
                 <br><a href="#Equipo de contratista" class="modal-trigger">• Equipo de Contratista o Maquinaria Pesada</a> 
                 <br><a href="#Seguro de Montaje" class="modal-trigger">• Seguro de Montaje</a> 
                 <br><a href="#Seguro de Obra Civil" class="modal-trigger">• Seguro de Obra Civil</a> 
-
+                <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
 
@@ -55,6 +56,7 @@
                 Somos especialistas en la consultoría en cuanto a la protección física del personal de su empresa se refiere, mejorando las condiciones y los costos, amoldando las coberturas a las necesidades específicas de los asegurados y sus beneficiarios.
                 Asesoramos desde los beneficios de las pólizas hasta impactos legales positivos que pueden generar para su empresa.
             </p>
+            <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@
 <?php include('./Template/navbar.php');?>
 <body >
 <div>
-
+  <div class="marca">
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
 
@@ -27,7 +27,11 @@
               <br><a href="#Autos" class="modal-trigger">• Autos Fronterizos y Regularizados</a>
               <br><a href="#Autos" class="modal-trigger">• Autos Turistas</a>
               <br><a href="#Autos" class="modal-trigger">• Autos Antigüos Clásicos</a>
-              <a href="#"></a>
+              <br>
+           
+                <?php include('./Template/buttonCotizar.php');?>
+          
+               
           </div>
         </div>
          <div class="col s12 m6" style="text-align:justify;">
@@ -39,7 +43,7 @@
               Siempre encontramos una solución a sus necesidades.</p>
               <br><a href="#GMM Planes Individuales" class="modal-trigger">• GMM Planes Individuales</a>
               <br><a href="#GMM PLANES COLECTIVOS" class="modal-trigger">• GMM Planes Colectivos</a>
-              
+                <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
 
@@ -51,7 +55,7 @@
             <h5 class="center">Accidentes personales</h5>
 
             <p class="light">Contrato en virtud del cual se ampara la lesión o incapacidad que afecte a la integridad personal, salud o vigor vital del asegurado.</p>
-
+              <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
 
@@ -64,6 +68,7 @@
                 Somos especialistas en la consultoría en cuanto a la protección física del personal de su empresa se refiere, mejorando las condiciones y los costos, amoldando las coberturas a las necesidades específicas de los asegurados y sus beneficiarios.
                 Asesoramos desde los beneficios de las pólizas hasta impactos legales positivos que pueden generar para su empresa.
             </p>
+              <?php include('./Template/buutonContacto.php');?>
           </div>
         </div>
       </div>
@@ -75,6 +80,12 @@
       </div>
     </div>
   </div>
+
+
+
+  
+</div> 
+<!-- FIN DEL LA MARCA DE -->
     <?php include('modals_personal.php');?>
   <!-- fin del div principal -->
       <!-- FOOTER SECTION -->

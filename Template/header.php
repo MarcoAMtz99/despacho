@@ -11,14 +11,14 @@
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <script>
-let identificadorTiempoDeEspera;
+// let identificadorTiempoDeEspera;
 
-function temporizadorDeRetraso() {
-  identificadorTiempoDeEspera = setTimeout(funcionConRetraso, 3000);
-}
+// function temporizadorDeRetraso() {
+//   identificadorTiempoDeEspera = setTimeout(funcionConRetraso, 3000);
+// }
 
-function funcionConRetraso() {
-  alert("Han pasado 3 segundos.");
+// function funcionConRetraso() {
+//   alert("Han pasado 3 segundos.");
 }
 		</script>
 </head>
