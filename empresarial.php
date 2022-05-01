@@ -2,7 +2,7 @@
 <?php include('./Template/navbar.php');?>
 <body >
 <div>
-
+ <div class="marca">
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
    
@@ -67,6 +67,8 @@
         <!-- FIN DEL CONTAINER -->
       </div>
     </div>
+  </div>
+
   </div>
   <?php include('modals_empresariales.php');?>
   <!-- fin del div principal -->

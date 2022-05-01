@@ -2,7 +2,7 @@
 <?php include('./Template/navbar.php');?>
 <body >
 <div>
-
+ <div class="marca">
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
 
@@ -93,6 +93,8 @@ Para mayores informes, por favor contacte a uno de nuestros asesores.
         <!-- FIN DEL CONTAINER -->
       </div>
     </div>
+  </div>
+
   </div>
   <?php include('modals_fianzas.php');?>
   <!-- fin del div principal -->
