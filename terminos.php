@@ -4,6 +4,7 @@
 <div>
 
   <div class="section no-pad-bot" id="index-banner">
+  <div class="marca">
     <div class="container">
 
   <div class="container" style="text-align:justify;">
@@ -84,10 +85,11 @@
 <p><strong>13. Aviso de Privacidad</strong></p>
 <p>Coopertura señala como domicilio para todos los efectos y obligaciones relacionadas con el tratamiento de Datos Personales, el inmueble ubicado en Torcuato Tasso 245 Ofna 404 &#8211; A, Colonia Polanco, C.P. 11560, en la Ciudad de México y al mismo tiempo hace de su conocimiento que al usar Coopertura®, los Datos Personales que en su caso se lleguen a recabar serán tratados con las siguientes finalidades: (i) Corroborar su identidad como Titular y la veracidad de la información que proporcione como propia; (ii) Integrar expedientes y Bases de Datos, y dar tratamiento a los mismos, ya sea directamente por Coopertura o a través de un tercero, con el fin de que Coopertura pueda prestar servicios financieros y de aseguramiento propios de su objeto social y reportar a las autoridades administrativas y jurisdiccionales dicha información cuando así lo establezcan las disposiciones legales vigentes; (iii) Ofrecer una ampliación o mejora de los productos o servicios financieros contratados y en su caso, promociones o descuentos.</p>
 <p>Para mayor información podrá consultar el Aviso de Privacidad integral de Coopertura en la página de internet: <a href="http://www.coopertura.com.">www.coopertura.com.</a></p>
-<p style="text-align: right;">Fecha de emisión: <strong>Febrero 2022</strong></p>
+<p style="text-align: right;">Fecha de emisión: <strong>Mayo 2022</strong></p>
 
      
         <!-- FIN DEL CONTAINER -->
+     	 </div>
       </div>
     </div>
   </div>

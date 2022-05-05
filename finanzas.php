@@ -23,7 +23,7 @@
               <br><a href="#Fianza de Fidelidad Individuales" class="modal-trigger">•Fianza de Fidelidad Individuales</a>
               <br><a href="#Fianzas de Fidelidad Colectivas"  class="modal-trigger">•Fianzas de Fidelidad Colectivas</a>
           </div>
-          <?php include('./Template/buutonContacto.php');?>
+          
         </div>
           <div class="col s12 m6" style="text-align:justify;">
           <div class="icon-block">
@@ -38,7 +38,7 @@
               <br><a href="#Fiscales" class="modal-trigger">•Fiscales</a>
               <br><a href="#De Arrendamiento inmobiliario" class="modal-trigger">•De Arrendamiento inmobiliario</a>
 
-            <?php include('./Template/buutonContacto.php');?>
+            
           </div>
         </div>
 
@@ -52,7 +52,7 @@
             <h5 class="center">Fianzas de Credito</h5>
 
             <p class="light">Se garantiza el pago de un crédito o financiamiento obtenido para la adquisición de bienes o servicios o el desarrollo de proyectos. </p>
-            <?php include('./Template/buutonContacto.php');?>
+            
           </div>
         </div>
 
@@ -65,7 +65,7 @@
             <p class="light">Garantiza el cumplimiento de las obligaciones específicas solicitadas por particulares dentro de un procedimiento judicial; también de lo que el juez o la ley obliguen a un particular a garantizar un acto procesal concreto.
 Para mayores informes, por favor contacte a uno de nuestros asesores.
 </p>
-<?php include('./Template/buutonContacto.php');?>
+
               <!-- <br><a href="#">• GMM Planes Individuales</a>
               <br><a href="#">• GMM Planes Colectivos</a> -->
               
@@ -81,12 +81,12 @@ Para mayores informes, por favor contacte a uno de nuestros asesores.
             <p class="light">Colocación en el mercado afianzador de servicios profesionales prestados como Institución Fiduciaria para la administración profesional de un fideicomiso. Se pueden encontrar de dos formas: </p>
              <br>•  <strong>Relacionado con Pólizas de Fianzas </strong>
               <br>• <strong>Sin Relación a pólizas de Fianzas</strong>
-              <?php include('./Template/buutonContacto.php');?>
+              
 
           </div>
         </div>
       </div>
-
+            <?php include('./Template/FloatingButton.php') ;?>
           </div>
           <br><br>
         </div>
@@ -118,6 +118,7 @@ Para mayores informes, por favor contacte a uno de nuestros asesores.
   $('.carousel.carousel-slider').carousel({
     fullWidth: true
   });
+  $('.fixed-action-btn').floatingActionButton();
 
 </script>
   </body>

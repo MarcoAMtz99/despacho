@@ -4,6 +4,7 @@
 <div>
 
   <div class="section no-pad-bot" id="index-banner">
+    <div class="marca">
     <div class="container">
 
     <div class="container" style="text-align:justify;">
@@ -125,10 +126,11 @@
         <p>El procedimiento a través del cual se llevarán a cabo las notificaciones sobre cambios o actualizaciones al presente aviso de privacidad es el siguiente: por medio del correo electónico: <a href="mailto:info@coopertura.com">info@coopertura.com</a> o al telefono: 55-6275-8686.</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
-        <p style="text-align: right;">Última actualización <strong>[26<em>/Oct/2021</em>]</strong><strong>.</strong></p></div>
+        <p style="text-align: right;">Última actualización <strong>[04<em>/May/2022</em>]</strong><strong>.</strong></p></div>
 
         </div>
         <!-- FIN DEL CONTAINER -->
+        </div>
       </div>
     </div>
   </div>

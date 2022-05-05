@@ -1,5 +1,5 @@
  <div class="section">
-    <div class="slider-frame2">
+    <div class="slider-frame3">
       <ul> 
        <!--  <video src="img/banner/banner.mp4" width="1080" height="360" autoplay muted loop></video> -->
         

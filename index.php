@@ -54,7 +54,7 @@
 
 
  <div class="divider"></div>
-   <?php include('./Template/carrusel.php');?>
+   <?php include('./Template/SmallCarrusel.php');?>
   <?php include('./Template/banner.php');?>
    <?php include('./Template/buutonContacto.php');?>
   <div class="container">

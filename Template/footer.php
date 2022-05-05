@@ -26,7 +26,7 @@
         </div>
         <div class="col 13 s12"> 
           <h5>Redes sociales</h5>
-          <a class="white-text"><i class="material-icons left">whatsapp</i></a>
+          <a href="https://api.whatsapp.com/send?phone=+5562758686&text=Necesito%20ayuda" class="white-text"><i class="material-icons">whatsapp</i></a>
           <a class="white-text"><i class="material-icons left">facebook</i></a>
         </div>
       </div>
