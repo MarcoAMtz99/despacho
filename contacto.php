@@ -76,37 +76,38 @@
           <span class="card-title"><strong>Contactanos</strong></span>
           <!-- FORMULARIO -->
           <div class="row">
-              <form class="col s12">
+              <form class="col s12" action="./mail.php" method="post">
                 <div class="row">
                   <div class="input-field col s6">
                     <i class="material-icons prefix">account_circle</i>
-                    <input id="icon_prefix" type="text" class="validate">
-                    <label for="icon_prefix">First Name</label>
+                    <input id="icon_prefix" type="text" name="nombre" class="validate"  minlength="5" maxlength="15" required>
+                    <label for="icon_prefix">Nombre</label>
                   </div>
                   <div class="input-field col s6">
                     <i class="material-icons prefix">phone</i>
-                    <input id="icon_telephone" type="tel" class="validate">
-                    <label for="icon_telephone">Telephone</label>
+                    <input id="icon_telephone" type="tel" name="telefono" class="validate" maxlength="10">
+                    <label for="icon_telephone">Telefono</label>
                   </div>
                    <div class="input-field col s12">
                     <i class="material-icons prefix">email</i>
-                    <input id="icon_email" type="tel" class="validate">
+                    <input id="icon_email" type="email" name="email" class="validate" required>
                     <label for="icon_email">Mail</label>
                   </div>
                   <div class="input-field col s12">
                     <i class="material-icons prefix">mode_edit</i>
-                    <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+                    <textarea id="icon_prefix2"  name="desccripcion" class="materialize-textarea" required pattern="[A-Za-z0-9]+"></textarea>
                     <label for="icon_prefix2">Comentario</label>
                   </div>
 
                 </div>
+                  <div class="card-action">
+                 <input type="submit" class="btn" value="Envar">
+                <!-- <a href="#">This is a link</a> -->
+              </div>
               </form>
             </div>
         </div>
-        <div class="card-action">
-          <a href="#" class="btn ">Enviar</a>
-          <!-- <a href="#">This is a link</a> -->
-        </div>
+      
       </div>
     </div>
 

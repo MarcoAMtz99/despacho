@@ -25,8 +25,8 @@
     </div> -->
  
   <section>
-    
-    <h2 class="header center z-depth-3 white-text">Agente de Seguros y de Fianzas <br></h2>
+     <h2 class="header center z-depth-3 white-text">Coopertura Agente de Seguros y de Fianzas S.A de C.V <br></h2>
+    <!-- <h3 class="header center z-depth-3 white-text">Agente de Seguros y de Fianzas <br></h3> -->
     <h3 class="header center z-depth-3 white-text">Igualamos cualquier oferta publicada en la web 
      
         <br></h3>
@@ -177,7 +177,7 @@
          
         </div>
         <div class="card-action">
-          <a href="#">Contactanos</a>
+          <a href="#" class="white-text">Contactanos</a>
           
         </div>
       </div>
@@ -196,7 +196,7 @@
           <a class="waves-effect waves-light btn"><i class="material-icons left">email</i>info@coopertura.com</a>
         </div>
         <div class="card-action">
-          <a href="#">Contactanos</a>
+          <a href="#" class="white-text">Contactanos</a>
           
         </div>
       </div>
