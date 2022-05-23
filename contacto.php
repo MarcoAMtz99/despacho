@@ -41,10 +41,10 @@
           <span class="card-title"><strong>Direccion</strong></span>
           <ul>
           
-            <li>Torcuato Tasso 245 Of. 404A </li>
-            <li>Col. Polanco Reforma, Miguel Hidalgo </li>
-            <li>CDMX, CP 11560 </li>
-            <li>5562758686</li>
+            <li> Montes Urales 755 piso 5 ofna. 5554 </li>
+            <li> Col. Lomas de Chapultepec. </li>
+            <li> Alc. Miguel Hidalgo </li>
+            <li> CP 11000, CDMX </li>
           </ul>
         </div>
         <div class="card-action">
@@ -61,7 +61,7 @@
           <span class="card-title"><strong>Ubicacion</strong></span>
           <br>
           <div class="map-responsive">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.5067113067153!2d-99.18579928520039!3d19.433708245681252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f8ac886cb0d7%3A0xf940a725b7a31393!2sTorcuato%20Tasso%20245-404a%2C%20Polanco%2C%20Polanco%20V%20Secc%2C%20Miguel%20Hidalgo%2C%2011550%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1649560860687!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1881.3705808161883!2d-99.20625154127808!3d19.42358650000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d201f14a0d4e1d%3A0x99df74c25168f8a2!2sC.%20Montes%20Urales%20755-piso%205%20oficina.%205554%2C%20Lomas%20-%20Virreyes%2C%20Lomas%20de%20Chapultepec%2C%20Miguel%20Hidalgo%2C%2011000%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1653015292132!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         
         </div>

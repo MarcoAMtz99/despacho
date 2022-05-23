@@ -10,7 +10,7 @@ $descripcion = $_POST['desccripcion'];
 if(is_numeric($telefono)) {
         // echo "$entrante es un numero";
         if ($nombre=='' || $telefono =='') {
-			header("http://www.coopertura.com/contacto.php");
+			header("https://www.coopertura.com/contacto.php");
 			exit();
 		}
 		
@@ -18,7 +18,7 @@ if(is_numeric($telefono)) {
 				
 
 		}else{
- 			header("http://www.coopertura.com/contacto.php");
+ 			header("https://www.coopertura.com/contacto.php");
 		}
 
 		$para      = 'david.moreno@coopertura.com';
@@ -31,8 +31,9 @@ if(is_numeric($telefono)) {
 		    'X-Mailer: PHP/' . phpversion();
 		    try {
 		    	mail($para, $titulo, $mensaje, $cabeceras);
+		    	header("https://www.coopertura.com/contacto.php");
 		    } catch (Exception $e) {
-		    	header("http://www.coopertura.com/index.php");
+		    	header("https://www.coopertura.com/index.php");
 		    }
 				
 
